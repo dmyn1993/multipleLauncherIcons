@@ -10,7 +10,7 @@ public class FirstActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         
-		Intent broadcastIntent = new Intent("com.testapp.First");
+		Intent broadcastIntent = new Intent("com.dmyn1993.mli.First");
         sendBroadcast(broadcastIntent);
 		finish();
     }
