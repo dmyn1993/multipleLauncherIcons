@@ -10,11 +10,11 @@
         android:resizeableActivity="true">
 
         <activity
-			android:name=".FirstActivity"
-			android:theme="@android:style/Theme.Translucent.NoTitleBar"
-			android:noHistory="true"
-			android:icon="@drawable/number_one"
-			android:label="First">
+            android:name=".FirstActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:noHistory="true"
+            android:icon="@drawable/number_one"
+            android:label="First">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -26,11 +26,11 @@
         </activity>
 
         <activity 
-			android:name=".SecondActivity"
-			android:theme="@android:style/Theme.Translucent.NoTitleBar"
-			android:noHistory="true"
-			android:icon="@drawable/number_tow"
-			android:label="Second">
+            android:name=".SecondActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:noHistory="true"
+            android:icon="@drawable/number_tow"
+            android:label="Second">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>

@@ -5,5 +5,5 @@
         <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="android:colorAccent">@color/colorAccent</item>
         <item name="android:navigationBarColor">?android:colorPrimary</item>
-	</style>
+    </style>
 </resources>
